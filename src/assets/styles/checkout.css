@@ -1,0 +1,15 @@
+html,
+body {
+	height: 100%;
+}
+.section input {
+	margin-bottom: 1rem;
+}
+
+.button-step-footer {
+	height: 4rem;
+}
+
+.col-right {
+	background-color: #fafafa;
+}
